@@ -20,7 +20,11 @@
 
 O **HARPHiAN Control** é um simulador para explorar robótica FTC, visualizar robôs e estudar estratégias em uma arena tridimensional.
 
-> 📸 **Capturas reais em breve.** As imagens oficiais da interface e arena serão adicionadas após a validação da versão pública.
+## Galeria 3D
+
+As imagens abaixo mostram a arena e os robôs em movimento, extraídas do vídeo de apresentação, sem interface do simulador.
+
+> As capturas estão selecionadas para publicação. Os arquivos de imagem serão disponibilizados na pasta `docs/screenshots` após o envio dos PNGs ao GitHub.
 
 ## Instalação
 
@@ -30,7 +34,7 @@ O **HARPHiAN Control** é um simulador para explorar robótica FTC, visualizar r
 4. Leia os termos de licença e conclua a instalação.
 5. Abra o HARPHiAN Control pelo atalho criado.
 
-> **Status: preparação da versão pública.** O instalador ainda precisa de validação em Windows 10 e 11 antes da primeira release oficial. Não baixe instaladores de fontes não oficiais.
+> **Distribuição:** utilize sempre o instalador oficial anexado à página de Releases. Verifique a soma SHA-256 informada nas notas da versão.
 
 ## Distribuição e propriedade intelectual
 
