@@ -1,0 +1,19 @@
+# Não publicar artefatos ou fontes privadas
+payload/
+installer_build/
+output/
+build/
+dist/
+private/
+*.step
+*.stp
+*.igs
+*.iges
+*.jar
+*.class
+*.exe
+*.zip
+*.7z
+*.pem
+*.key
+.env
