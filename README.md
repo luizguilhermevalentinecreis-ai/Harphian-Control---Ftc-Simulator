@@ -24,7 +24,9 @@ O **HARPHiAN Control** é um simulador para explorar robótica FTC, visualizar r
 
 As imagens abaixo mostram a arena e os robôs em movimento, extraídas do vídeo de apresentação, sem interface do simulador.
 
-> As capturas estão selecionadas para publicação. Os arquivos de imagem serão disponibilizados na pasta `docs/screenshots` após o envio dos PNGs ao GitHub.
+![Arena BIOBUZZ em 3D](docs/screenshots/arena-overview.jpg)
+
+*Visão geral da arena BIOBUZZ com quatro robôs em atividade. Captura do vídeo de apresentação.*
 
 ## Instalação
 
