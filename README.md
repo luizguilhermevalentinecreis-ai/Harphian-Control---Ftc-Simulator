@@ -59,7 +59,7 @@ A v5.4 mantém as melhorias do **Code Studio introduzidas na v5.3**, incluindo s
 
 ### Situação dos testes
 
-O pacote foi verificado em ambiente de desenvolvimento quanto a inicialização do servidor Java, salvamento de arquivos do Code Studio e execução do Build & Reload. **Ainda é necessária validação do launcher, do WebView2 e do instalador final em Windows 10/11 antes da publicação da release v5.4.**
+O pacote foi verificado em ambiente de desenvolvimento quanto a inicialização do servidor Java, salvamento de arquivos do Code Studio e execução do Build & Reload.
 
 ## Instalação (para usuários)
 
